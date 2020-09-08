@@ -1,12 +1,11 @@
-# :crocodile: Developing Code of Conduct for Databases CMPSC 312 Fall 2020: LAB 02 Assignment :crocodile:
+### :crocodile: Developing Code of Conduct for Databases CMPSC 312 Fall 2020: LAB 02 Assignment :crocodile:
+Allegheny College, Department of Computer Science
 
-#### Allegheny College, Department of Computer Science
-
-## DUE: September 16th by 4:50pm
+#### DUE: September 16th by 4:50pm
 
 [![Actions Status](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/actions)
 
-## Table of Contents
+#### Table of Contents
 
 * [Summary](#summary)
 
@@ -24,13 +23,13 @@
 
 * [Problems](problems-with-the-conduct-guide)
 
-## Summary
+#### Summary
 
 This repository contains the template for the code of conduct in [Computer Science 201 Fall 2020](https://cs.allegheny.edu/sites/jjumadinova/teaching/201). The class will collaboratively improve and add missing details to the template to develop a completed and comprehensive code of conduct. The instructor and students will then use this conduct guide to govern all course interactions.
 
 Please watch a video introducing this lab assignment under the course's YouTube playlist: [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail_small.png)](https:// www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0)
 
-## Objectives
+#### Objectives
 
 * To develop a code of conduct governing how all members of Data Abstraction class will interact during class, lab and practical sessions, as well as when working in a team.
 
@@ -38,20 +37,20 @@ Please watch a video introducing this lab assignment under the course's YouTube 
 
 * To learn how to use Markdown to complete technical writing tasks.
 
-## Reading Assignment
+#### Reading Assignment
 
 If you have not done so already, please read all of the relevant [GitHub Guides](https://guides.github.com/) that explain how to use many of the features that GitHub provides. In particular,  please  make  sure  that  you  have  read guides  such  as  "Mastering  Markdown" and "Documenting Your Projects on GitHub"; each of them will help you to understand how to use both GitHub and GitHub Classroom.
 
 You are also expected to read [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics). Please see the course instructor if you have questions on these reading assignments.
 
-## Creating the Code of Conduct Guide
+### Creating the Code of Conduct Guide
 
-### Accessing the Repository
+#### Accessing the Repository
 
 Unlike all subsequent assignments, where you will be invited to use a provided GitHub Classroom link to create your own copy of the starter repository, in this lab all class members are going to work in the same [lab 01 repository](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020) following
 [GitHub flow model](https://help.github.com/articles/github-flow/) to collaboratively improve the conduct guide.
 
-### Tasks
+#### Tasks
 
 For this laboratory assignment,  your  task  is  to  collaborate   with  the members  of  your  class  to  write  a  full-featured code of conduct, using the GitHub Flow model to facilitate collaboration. You should first read the [ACM's Code of Ethics](https://www.acm.org/code-of-ethics) that all computer scientists are expected to follow. Using this broad standard as the baseline, you should then describe specific student and instructor behaviors that are deemed to be acceptable and unacceptable in this course. Make sure that you explain how the class will handle infractions of the conduct guide.
 
@@ -60,7 +59,7 @@ that you want to make to the code of conduct.  Using appropriate commit messages
 
 Once you have resolved all of the concerns raised by the reviewers of your pull request and it is approved, a  member  of  your  team  should  merge  it  into the  master  branch  of  the  GitHub  repository. At this point,  you can delete the feature branch from the repository and start working on the next task associated with completing this project.
 
-### Team Work
+#### Team Work
 
 Each member of the class will be assigned to a team at the beginning of the lab session. Each team will be assigned one feature/section to start with. All teams are expected to make contributions to all sections of the conduct guide.
 
@@ -72,6 +71,6 @@ Please remember that GitHub Actions CI is configured to check the Markdown files
 
 The instructor will assign your grade as a checkmark grade (0/1) for this lab; you will receive 1 if you contributed to the GitHub repository, your team made a pull request including your contributions, and it was accepted by the instructor and technical leaders, otherwise you will receive a 0.
 
-## Problems with the Conduct Guide
+#### Problems with the Conduct Guide
 
 If you have any problems with this conduct guide assignment, then please create an issue in this repository using the "Issues" link at the top of this site.
