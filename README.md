@@ -1,8 +1,8 @@
-# :crocodile: Developing Code of Conduct for Databases CMPSC 312 Fall 2020: LAB 01 Assignment :crocodile:
+# :crocodile: Developing Code of Conduct for Databases CMPSC 312 Fall 2020: LAB 02 Assignment :crocodile:
 
 #### Allegheny College, Department of Computer Science
 
-## DUE: September 9th by 4:50pm
+## DUE: September 16th by 4:50pm
 
 [![Actions Status](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/actions)
 
