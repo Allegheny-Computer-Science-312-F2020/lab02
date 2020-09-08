@@ -26,7 +26,7 @@ Allegheny College, Department of Computer Science
 
 #### Summary
 
-This repository contains the template for the code of conduct in [Computer Science 201 Fall 2020](https://cs.allegheny.edu/sites/jjumadinova/teaching/201). The class will collaboratively improve and add missing details to the template to develop a completed and comprehensive code of conduct. The instructor and students will then use this conduct guide to govern all course interactions.
+This repository contains the template for the code of conduct in [Computer Science 312 Fall 2020](https://www.cs.allegheny.edu/sites/obonhamcarter/cs312.html). The class will collaboratively improve and add missing details to the template to develop a completed and comprehensive code of conduct. The instructor and students will then use this conduct guide to govern all course interactions.
 
 Please watch a video introducing this lab assignment under the course's YouTube playlist: [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail_small.png)](https:// www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0)
 
@@ -48,15 +48,14 @@ You are also expected to read [ACM's Code of Ethics and Professional Conduct](ht
 
 #### Accessing the Repository
 
-Unlike all subsequent assignments, where you will be invited to use a provided GitHub Classroom link to create your own copy of the starter repository, in this lab all class members are going to work in the same [lab 01 repository](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020) following
+Unlike all subsequent assignments, where you will be invited to use a provided GitHub Classroom link to create your own copy of the starter repository, in this lab all class members are going to work in the same [lab 02 repository](https://github.com/Allegheny-Computer-Science-312-F2020/lab02) following
 [GitHub flow model](https://help.github.com/articles/github-flow/) to collaboratively improve the conduct guide.
 
 #### Tasks
 
 For this laboratory assignment,  your  task  is  to  collaborate   with  the members  of  your  class  to  write  a  full-featured code of conduct, using the GitHub Flow model to facilitate collaboration. You should first read the [ACM's Code of Ethics](https://www.acm.org/code-of-ethics) that all computer scientists are expected to follow. Using this broad standard as the baseline, you should then describe specific student and instructor behaviors that are deemed to be acceptable and unacceptable in this course. Make sure that you explain how the class will handle infractions of the conduct guide.
 
-Please note that you should use repository forks or branches and pull requests to ensure that your  work  is  ultimately  added  to  the  repository's  master branch.   When  you  follow  the  GitHub Flow model you should create a separate "feature branch" in your GitHub repository that contains additions or changes
-that you want to make to the code of conduct.  Using appropriate commit messages, you will repeatedly commit to this branch until you have finished the feature.  Now, you will  use  GitHub  to  raise  a  pull  request,  tagging  the  course  instructor and  the  student  technical leaders and asking them review your work.
+Please note that you should use repository forks or branches and pull requests to ensure that your  work  is  ultimately  added  to  the  repository's  master branch.   When  you  follow  the  GitHub Flow model you should create a separate "feature branch" in your GitHub repository that contains additions or changes that you want to make to the code of conduct.  Using appropriate commit messages, you will repeatedly commit to this branch until you have finished the feature.  Now, you will  use  GitHub  to  raise  a  pull  request,  tagging  the  course  instructor and  the  student  technical leaders and asking them review your work.
 
 Once you have resolved all of the concerns raised by the reviewers of your pull request and it is approved, a  member  of  your  team  should  merge  it  into the  master  branch  of  the  GitHub  repository. At this point,  you can delete the feature branch from the repository and start working on the next task associated with completing this project.
 
